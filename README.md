@@ -225,7 +225,7 @@ You can open the notebooks using:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/repository.git
+git clone https://github.com/s110m/git_tutorial.git
 ```
 
 ---
